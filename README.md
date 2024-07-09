@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/bossthekhani/product_preview_card)
-- Live Site URL: [Live]https://product-preview-card-brown-ten.vercel.app/)
+- Live Site URL: [Live](https://product-preview-card-brown-ten.vercel.app/)
 
 ## My process
 
