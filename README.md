@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/bossthekhani/product_preview_card)
+- Live Site URL: [Add live site URL here](https://product-preview-card-brown-ten.vercel.app/)
 
 ## My process
 
@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Preview](https://product-preview-card-brown-ten.vercel.app/)
 - Frontend Mentor - [@bossthekhani](https://www.frontendmentor.io/profile/bossthekhani)
 - Instagram - [@bossthekhani](https://www.twitter.com/bossthekhani)
 
